@@ -9,4 +9,17 @@ The system also uses verlet integration for realistic motion, and fluid/light si
 
 The simulator also has a beautiful GUI with an auto generated phylogenetic tree and "blueprint" mode, showing an outline of the fully formed creature.
 
-
+![DNA](media/DNAanimation.gif)
+![GenomeWalkthrough](media/GenomeWalkthrough.gif)
+![spiders](media/spiders.gif)
+![biter](media/viter.gif)
+![ecosystem](media/ecosystem.gif)
+![growth](media/growth.gif)
+![plants](media/plants.gif)
+![GeneticDiversity](media/GeneticDiversity.png)
+![biter](media/biter.jpg)
+![ecosystem](media/ecosystem.jpg)
+![ecosystem2](media/ecosystem2.jpg)
+![plant](media/plant.png)
+![squid](media/squid.png)
+![speciation](media/speciation.png)
